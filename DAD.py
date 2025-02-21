@@ -1,0 +1,6 @@
+Mensaje=("Buenas tardes Dad jijij,")
+Mensaje+=("te quiero mucho")
+Mensaje+=(" ")
+Mensaje+=(",solo quiero que lo sepa")
+Mensaje+=(".")
+print(Mensaje)
